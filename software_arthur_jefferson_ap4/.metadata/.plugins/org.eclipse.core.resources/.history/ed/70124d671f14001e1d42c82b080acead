@@ -1,0 +1,48 @@
+#include "alt_types.h"
+#include "altera_avalon_pio_regs.h"
+#include "system.h"
+#include <stdio.h>
+#include <unistd.h>
+#include "altera_up_avalon_character_lcd.h"
+
+static alt_u8 count;
+
+
+int main(void)
+{
+    char* members[2] = {"Arthur      ", "Jefferson   "};
+    alt_up_character_lcd_dev * char_lcd_dev;
+    count = 0;
+
+    char_lcd_dev = alt_up_character_lcd_open_dev (CHARACTER_LCD_0_NAME);
+	if ( char_lcd_dev == NULL)
+		alt_printf ("Error: could not open character LCD device\n");
+	else
+		alt_printf ("Opened character LCD device\n");
+
+    while( 1 )
+    {
+    	//Liga leds vermelho
+		IOWR_ALTERA_AVALON_PIO_DATA(LED_R_BASE, IORD_ALTERA_AVALON_PIO_DATA(SW_OPERATOR_BASE));
+		IOWR_ALTERA_AVALON_PIO_DATA(LED_G_BASE, count);
+		int enter = IORD_ALTERA_AVALON_PIO_DATA(ENTER_BASE);
+
+        /* Initialize the character display */
+        alt_up_character_lcd_init (char_lcd_dev);
+        alt_up_character_lcd_string(char_lcd_dev, members[0]);
+
+        while(enter == 1)
+        {
+        	alt_up_character_lcd_init (char_lcd_dev);
+        	alt_up_character_lcd_string(char_lcd_dev, members[1]);
+
+        	 usleep(100000); /* Sleep for 0.1s. */
+        	 count--;
+        }
+        usleep(100000); /* Sleep for 0.1s. */
+        count++;
+    }
+
+
+    return 0;
+}

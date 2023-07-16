@@ -1,0 +1,1017 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+                              obj/default/hello_world.o (memcpy)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_load.o)
+                              ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o (alt_load)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o)
+                              ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o (alt_main)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_usleep.o)
+                              obj/default/hello_world.o (usleep)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o) (alt_irq_init)
+../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_read_fd)
+../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_read)
+../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_write)
+../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o) (alt_avalon_timer_sc_init)
+../testing_lcd_niosii_bsp//libhal_bsp.a(altera_up_avalon_character_lcd.o)
+                              obj/default/hello_world.o (alt_up_character_lcd_init)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_busy_sleep.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_usleep.o) (alt_busy_sleep)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o) (close)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o) (alt_dev_list)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_errno.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o) (alt_errno)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_dev.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_up_avalon_character_lcd.o) (alt_find_dev)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_timer_sc.o) (alt_ic_isr_register)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic.o) (alt_iic_isr_register)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_io_redirect.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o) (alt_io_redirect)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_entry)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_handler.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic_isr_register.o) (alt_irq)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_vars.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic.o) (alt_irq_active)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_open.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_io_redirect.o) (open)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_release_fd.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o) (alt_release_fd)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_tick.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_timer_sc.o) (_alt_tick_rate)
+../testing_lcd_niosii_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o) (alt_exception)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_file.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_open.o) (alt_find_file)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_get_fd.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_open.o) (alt_get_fd)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush_all.o) (alt_icache_flush)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o) (alt_instruction_exception_entry)
+/opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o) (exit)
+/opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o) (errno)
+/opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_dev.o) (memcmp)
+/opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_dev.o) (strlen)
+/opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+                              /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o) (__call_exitprocs)
+/opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+                              /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o) (_global_impure_ptr)
+/opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a(lib2-divmod.o)
+                              ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_busy_sleep.o) (__udivsi3)
+../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exit.o)
+                              /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o) (_exit)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x0000000000010000 0x0000000000000020
+onchip_mem       0x0000000000010020 0x0000000000009fe0
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/hello_world.o
+LOAD /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libstdc++.a
+LOAD /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libm.a
+LOAD /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a
+START GROUP
+LOAD /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a
+LOAD /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a
+LOAD ../testing_lcd_niosii_bsp//libhal_bsp.a
+LOAD /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libm.a
+END GROUP
+LOAD /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a
+                0x0000000000010000                __alt_mem_onchip_mem = 0x10000
+
+.entry          0x0000000000010000       0x20
+ *(.entry)
+ .entry         0x0000000000010000       0x20 ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o
+                0x0000000000010000                __reset
+
+.exceptions     0x0000000000010020      0x218
+                0x0000000000010020                PROVIDE (__ram_exceptions_start = ABSOLUTE (.))
+                0x0000000000010020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ .exceptions.entry.label
+                0x0000000000010020        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+                0x0000000000010020                alt_irq_entry
+ .exceptions.entry.label
+                0x0000000000010020        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+                0x0000000000010020                alt_exception
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ .exceptions.entry
+                0x0000000000010020       0x54 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ .exceptions.irqtest
+                0x0000000000010074       0x10 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ .exceptions.irqhandler
+                0x0000000000010084        0x4 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ .exceptions.irqreturn
+                0x0000000000010088        0x4 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.label)
+ .exceptions.notirq.label
+                0x000000000001008c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ .exceptions.notirq
+                0x000000000001008c        0x8 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ .exceptions.unknown
+                0x0000000000010094       0x14 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.label)
+ .exceptions.exit.label
+                0x00000000000100a8        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .exceptions.exit.label
+                0x00000000000100a8        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ .exceptions.exit
+                0x00000000000100a8       0x54 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions)
+ .exceptions    0x00000000000100fc       0xc8 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_handler.o)
+                0x00000000000100fc                alt_irq_handler
+ .exceptions    0x00000000000101c4       0x74 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x00000000000101c4                alt_instruction_exception_entry
+                0x0000000000010238                PROVIDE (__ram_exceptions_end = ABSOLUTE (.))
+                0x0000000000010020                PROVIDE (__flash_exceptions_start = LOADADDR (.exceptions))
+
+.text           0x0000000000010238     0x1f64
+                [!provide]                        PROVIDE (stext = ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000010238       0x4c ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o
+                0x0000000000010238                _start
+ .text          0x0000000000010284      0x14c obj/default/hello_world.o
+                0x0000000000010284                main
+ .text          0x00000000000103d0        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .text.memcpy   0x00000000000103d0       0x28 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+                0x00000000000103d0                memcpy
+ .text          0x00000000000103f8       0xec ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_load.o)
+                0x0000000000010460                alt_load
+ .text          0x00000000000104e4       0x6c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o)
+                0x00000000000104e4                alt_main
+ .text          0x0000000000010550       0x30 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_usleep.o)
+                0x0000000000010550                usleep
+ .text          0x0000000000010580       0xd4 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o)
+                0x00000000000105b4                alt_irq_init
+                0x00000000000105f0                alt_sys_init
+ .text          0x0000000000010654       0xc0 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                0x0000000000010654                altera_avalon_jtag_uart_read_fd
+                0x00000000000106b4                altera_avalon_jtag_uart_write_fd
+ .text          0x0000000000010714       0xec ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                0x0000000000010714                altera_avalon_jtag_uart_read
+ .text          0x0000000000010800       0x94 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x0000000000010800                altera_avalon_jtag_uart_write
+ .text          0x0000000000010894      0x100 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+                0x0000000000010910                alt_avalon_timer_sc_init
+ .text          0x0000000000010994      0x4fc ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_up_avalon_character_lcd.o)
+                0x0000000000010994                get_DDRAM_addr
+                0x0000000000010a08                alt_up_character_lcd_send_cmd
+                0x0000000000010a48                alt_up_character_lcd_init
+                0x0000000000010a80                alt_up_character_lcd_open_dev
+                0x0000000000010abc                alt_up_character_lcd_write
+                0x0000000000010b3c                alt_up_character_lcd_string
+                0x0000000000010bb8                alt_up_character_lcd_write_fd
+                0x0000000000010c08                alt_up_character_lcd_set_cursor_pos
+                0x0000000000010c7c                alt_up_character_lcd_shift_cursor
+                0x0000000000010d08                alt_up_character_lcd_shift_display
+                0x0000000000010d94                alt_up_character_lcd_erase_pos
+                0x0000000000010e20                alt_up_character_lcd_cursor_off
+                0x0000000000010e58                alt_up_character_lcd_cursor_blink_on
+ .text          0x0000000000010e90      0x158 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_busy_sleep.o)
+                0x0000000000010e90                alt_busy_sleep
+ .text          0x0000000000010fe8      0x10c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o)
+                0x0000000000011024                close
+ .text          0x00000000000110f4       0x4c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+                0x00000000000110f4                alt_dcache_flush_all
+ .text          0x0000000000011140       0x2c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev.o)
+ .text          0x000000000001116c       0xe4 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+                0x00000000000111a8                alt_dev_llist_insert
+ .text          0x0000000000011250        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_errno.o)
+ .text          0x0000000000011250       0x90 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_dev.o)
+                0x0000000000011250                alt_find_dev
+ .text          0x00000000000112e0       0x34 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+                0x00000000000112e0                alt_icache_flush_all
+ .text          0x0000000000011314      0x1b0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic.o)
+                0x0000000000011314                alt_ic_isr_register
+                0x0000000000011364                alt_ic_irq_enable
+                0x00000000000113ec                alt_ic_irq_disable
+                0x0000000000011478                alt_ic_irq_enabled
+ .text          0x00000000000114c4       0xe8 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+                0x00000000000114c4                alt_iic_isr_register
+ .text          0x00000000000115ac      0x12c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_io_redirect.o)
+                0x000000000001165c                alt_io_redirect
+ .text          0x00000000000116d8        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .text          0x00000000000116d8        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .text          0x00000000000116d8        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .text          0x00000000000116d8      0x248 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_open.o)
+                0x00000000000117cc                open
+ .text          0x0000000000011920       0x58 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_release_fd.o)
+                0x0000000000011920                alt_release_fd
+ .text          0x0000000000011978      0x1ac ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_tick.o)
+                0x0000000000011978                alt_alarm_stop
+                0x0000000000011a1c                alt_tick
+ .text          0x0000000000011b24       0x24 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x0000000000011b24                altera_nios2_gen2_irq_init
+ .text          0x0000000000011b48        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .text          0x0000000000011b48      0x108 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_file.o)
+                0x0000000000011b48                alt_find_file
+ .text          0x0000000000011c50       0xa0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_get_fd.o)
+                0x0000000000011c50                alt_get_fd
+ .text          0x0000000000011cf0       0x90 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush.o)
+                0x0000000000011cf0                alt_icache_flush
+ .text          0x0000000000011d80       0x98 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x0000000000011d80                alt_exception_cause_generated_bad_addr
+ .text          0x0000000000011e18        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+ .text.exit     0x0000000000011e18       0x20 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+                0x0000000000011e18                exit
+ .text          0x0000000000011e38        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .text          0x0000000000011e38        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+ .text.memcmp   0x0000000000011e38       0x30 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+                0x0000000000011e38                memcmp
+ .text          0x0000000000011e68        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .text.strlen   0x0000000000011e68       0x1c /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+                0x0000000000011e68                strlen
+ .text          0x0000000000011e84        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000011e84      0x12c /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+                0x0000000000011e84                __call_exitprocs
+ .text          0x0000000000011fb0        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .text          0x0000000000011fb0      0x1b4 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a(lib2-divmod.o)
+                0x0000000000011fb0                __divsi3
+                0x0000000000012030                __modsi3
+                0x00000000000120a4                __udivsi3
+                0x0000000000012108                __umodsi3
+ .text          0x0000000000012164       0x38 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exit.o)
+                0x0000000000012164                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                [!provide]                        PROVIDE (__etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (_etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (etext = ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x000000000001219c                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = ABSOLUTE (.))
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__init_array_start = ABSOLUTE (.))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__fini_array_start = ABSOLUTE (.))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                [!provide]                        PROVIDE (__CTOR_LIST__ = ABSOLUTE (.))
+ *(.ctors)
+ *(SORT_BY_NAME(.ctors.*))
+                [!provide]                        PROVIDE (__CTOR_END__ = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__DTOR_LIST__ = ABSOLUTE (.))
+ *(.dtors)
+ *(SORT_BY_NAME(.dtors.*))
+                [!provide]                        PROVIDE (__DTOR_END__ = ABSOLUTE (.))
+ *(.jcr)
+                0x000000000001219c                . = ALIGN (0x4)
+
+.rodata         0x000000000001219c       0x70
+                0x000000000001219c                PROVIDE (__ram_rodata_start = ABSOLUTE (.))
+                0x000000000001219c                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x000000000001219c       0x29 obj/default/hello_world.o
+ *fill*         0x00000000000121c5        0x3 
+ .rodata        0x00000000000121c8        0xf ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o)
+ *fill*         0x00000000000121d7        0x1 
+ .rodata        0x00000000000121d8       0x25 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o)
+ *fill*         0x00000000000121fd        0x3 
+ .rodata        0x0000000000012200        0xa ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev.o)
+ *(.rodata1)
+                0x000000000001220c                . = ALIGN (0x4)
+ *fill*         0x000000000001220a        0x2 
+                0x000000000001220c                PROVIDE (__ram_rodata_end = ABSOLUTE (.))
+                0x000000000001219c                PROVIDE (__flash_rodata_start = LOADADDR (.rodata))
+
+.rwdata         0x000000000001220c      0x310 load address 0x000000000001251c
+                0x000000000001220c                PROVIDE (__ram_rwdata_start = ABSOLUTE (.))
+                0x000000000001220c                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x000000000001220c        0x0 ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o
+ .data          0x000000000001220c        0x0 obj/default/hello_world.o
+ .data          0x000000000001220c        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .data          0x000000000001220c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_load.o)
+ .data          0x000000000001220c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o)
+ .data          0x000000000001220c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_usleep.o)
+ .data          0x000000000001220c       0x58 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o)
+ .data          0x0000000000012264        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .data          0x0000000000012264        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .data          0x0000000000012264        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x0000000000012264        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .data          0x0000000000012264        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_up_avalon_character_lcd.o)
+ .data          0x0000000000012264        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .data          0x0000000000012264        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o)
+ .data          0x0000000000012264        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x0000000000012264      0x1a8 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev.o)
+                0x0000000000012264                alt_dev_null
+                0x000000000001228c                alt_fd_list
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_errno.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_dev.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_open.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_release_fd.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_tick.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_file.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_get_fd.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .data          0x000000000001240c        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .data          0x000000000001240c        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+ .data          0x000000000001240c        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .data          0x000000000001240c        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+ .data          0x000000000001240c        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .data          0x000000000001240c        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+ .data          0x000000000001240c        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .data.impure_data
+                0x000000000001240c       0xe4 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .data          0x00000000000124f0        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a(lib2-divmod.o)
+ .data          0x00000000000124f0        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exit.o)
+                0x000000000001a4f0                _gp = ABSOLUTE ((. + 0x8000))
+                [!provide]                        PROVIDE (gp = _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x00000000000124f0       0x14 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev.o)
+                0x00000000000124f0                alt_fs_list
+                0x00000000000124f8                alt_dev_list
+                0x0000000000012500                alt_max_fd
+ .sdata         0x0000000000012504        0x4 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_errno.o)
+                0x0000000000012504                alt_errno
+ .sdata         0x0000000000012508        0x4 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_vars.o)
+                0x0000000000012508                alt_priority_mask
+ .sdata         0x000000000001250c        0x8 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_tick.o)
+                0x000000000001250c                alt_alarm_list
+ .sdata._global_impure_ptr
+                0x0000000000012514        0x4 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+                0x0000000000012514                _global_impure_ptr
+ .sdata._impure_ptr
+                0x0000000000012518        0x4 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+                0x0000000000012518                _impure_ptr
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x000000000001251c                . = ALIGN (0x4)
+                0x000000000001251c                _edata = ABSOLUTE (.)
+                [!provide]                        PROVIDE (edata = ABSOLUTE (.))
+                0x000000000001251c                PROVIDE (__ram_rwdata_end = ABSOLUTE (.))
+                0x000000000001251c                PROVIDE (__flash_rwdata_start = LOADADDR (.rwdata))
+
+.bss            0x000000000001282c      0x124
+                0x000000000001282c                __bss_start = ABSOLUTE (.)
+                [!provide]                        PROVIDE (__sbss_start = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_start = ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x000000000001282c        0x1 obj/default/hello_world.o
+ *fill*         0x000000000001282d        0x3 
+ .sbss          0x0000000000012830        0xc ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o)
+                0x0000000000012830                alt_argc
+                0x0000000000012834                alt_argv
+                0x0000000000012838                alt_envp
+ .sbss          0x000000000001283c        0x4 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_vars.o)
+                0x000000000001283c                alt_irq_active
+ .sbss          0x0000000000012840        0x8 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_tick.o)
+                0x0000000000012840                _alt_tick_rate
+                0x0000000000012844                _alt_nticks
+ .sbss          0x0000000000012848        0x4 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x0000000000012848                alt_instruction_exception_handler
+ .sbss.errno    0x000000000001284c        0x4 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+                0x000000000001284c                errno
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                [!provide]                        PROVIDE (__sbss_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_end = ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o
+ .bss           0x0000000000012850        0x0 obj/default/hello_world.o
+ .bss           0x0000000000012850        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_load.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_usleep.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_up_avalon_character_lcd.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_errno.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_dev.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .bss           0x0000000000012850        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x0000000000012850      0x100 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_handler.o)
+                0x0000000000012850                alt_irq
+ .bss           0x0000000000012950        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x0000000000012950        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_open.o)
+ .bss           0x0000000000012950        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_release_fd.o)
+ .bss           0x0000000000012950        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_tick.o)
+ .bss           0x0000000000012950        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .bss           0x0000000000012950        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x0000000000012950        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_file.o)
+ .bss           0x0000000000012950        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_get_fd.o)
+ .bss           0x0000000000012950        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .bss           0x0000000000012950        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .bss           0x0000000000012950        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+ .bss           0x0000000000012950        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .bss           0x0000000000012950        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+ .bss           0x0000000000012950        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .bss           0x0000000000012950        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000012950        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .bss           0x0000000000012950        0x0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a(lib2-divmod.o)
+ .bss           0x0000000000012950        0x0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exit.o)
+ *(COMMON)
+                0x0000000000012950                . = ALIGN (0x4)
+                0x0000000000012950                __bss_end = ABSOLUTE (.)
+
+.onchip_mem     0x0000000000012950        0x0
+                [!provide]                        PROVIDE (_alt_partition_onchip_mem_start = ABSOLUTE (.))
+ *(.onchip_mem .onchip_mem. onchip_mem.*)
+                0x0000000000012950                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_alt_partition_onchip_mem_end = ABSOLUTE (.))
+                0x0000000000012950                _end = ABSOLUTE (.)
+                0x0000000000012950                end = ABSOLUTE (.)
+                0x0000000000012950                __alt_stack_base = ABSOLUTE (.)
+                [!provide]                        PROVIDE (_alt_partition_onchip_mem_load_addr = LOADADDR (.onchip_mem))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2d
+ *(.comment)
+ .comment       0x0000000000000000       0x2d obj/default/hello_world.o
+                                         0x2e (size before relaxing)
+ .comment       0x000000000000002d       0x2e /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_load.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_usleep.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_up_avalon_character_lcd.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_errno.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_dev.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_open.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_release_fd.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_tick.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_file.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_get_fd.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .comment       0x000000000000002d       0x2e /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+ .comment       0x000000000000002d       0x2e /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .comment       0x000000000000002d       0x2e /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+ .comment       0x000000000000002d       0x2e /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .comment       0x000000000000002d       0x2e /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+ .comment       0x000000000000002d       0x2e /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .comment       0x000000000000002d       0x2e /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a(lib2-divmod.o)
+ .comment       0x000000000000002d       0x2e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x578
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x0000000000000028       0x20 obj/default/hello_world.o
+ .debug_aranges
+                0x0000000000000048       0x20 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000068       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x0000000000000088       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x00000000000000a8       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_aranges
+                0x00000000000000c8       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x00000000000000e8       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_aranges
+                0x0000000000000108       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_aranges
+                0x0000000000000128       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x0000000000000148       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_aranges
+                0x0000000000000168       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_up_avalon_character_lcd.o)
+ .debug_aranges
+                0x0000000000000188       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_aranges
+                0x00000000000001a8       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o)
+ .debug_aranges
+                0x00000000000001c8       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x00000000000001e8       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x0000000000000208       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x0000000000000228       0x18 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x0000000000000240       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x0000000000000260       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x0000000000000280       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_aranges
+                0x00000000000002a0       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_aranges
+                0x00000000000002c0       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_aranges
+                0x00000000000002e0       0x30 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_aranges
+                0x0000000000000310       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_aranges
+                0x0000000000000330       0x18 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .debug_aranges
+                0x0000000000000348       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_open.o)
+ .debug_aranges
+                0x0000000000000368       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_aranges
+                0x0000000000000388       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_tick.o)
+ .debug_aranges
+                0x00000000000003a8       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_aranges
+                0x00000000000003c8       0x38 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_aranges
+                0x0000000000000400       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_aranges
+                0x0000000000000420       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_aranges
+                0x0000000000000440       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .debug_aranges
+                0x0000000000000460       0x28 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_aranges
+                0x0000000000000488       0x20 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+ .debug_aranges
+                0x00000000000004a8       0x18 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .debug_aranges
+                0x00000000000004c0       0x20 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x00000000000004e0       0x20 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x0000000000000500       0x20 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000520       0x18 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000538       0x20 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x0000000000000558       0x20 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x5d55
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x22 ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x0000000000000022      0x34f obj/default/hello_world.o
+ .debug_info    0x0000000000000371      0x128 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .debug_info    0x0000000000000499      0x14d ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_load.o)
+ .debug_info    0x00000000000005e6       0xef ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o)
+ .debug_info    0x00000000000006d5       0xb7 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_info    0x000000000000078c      0x400 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x0000000000000b8c      0x398 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_info    0x0000000000000f24      0x151 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_info    0x0000000000001075      0x132 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x00000000000011a7      0x1d5 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_info    0x000000000000137c      0x61a ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_up_avalon_character_lcd.o)
+ .debug_info    0x0000000000001996       0xd6 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_info    0x0000000000001a6c      0x32c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o)
+ .debug_info    0x0000000000001d98       0xa0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x0000000000001e38      0x57d ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_info    0x00000000000023b5      0x1b0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x0000000000002565       0x9d ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_info    0x0000000000002602      0x2ee ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x00000000000028f0       0x8c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x000000000000297c      0x32c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_info    0x0000000000002ca8      0x1f0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_info    0x0000000000002e98      0x546 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_info    0x00000000000033de       0x22 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x0000000000003400      0x175 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x0000000000003575       0x8b ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x0000000000003600      0x3dd ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_open.o)
+ .debug_info    0x00000000000039dd      0x2b9 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x0000000000003c96      0x2bd ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_tick.o)
+ .debug_info    0x0000000000003f53       0x8c ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_info    0x0000000000003fdf       0x22 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x0000000000004001      0x2eb ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_info    0x00000000000042ec      0x31c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_info    0x0000000000004608       0xdb ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .debug_info    0x00000000000046e3      0x1f1 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_info    0x00000000000048d4       0xe6 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+ .debug_info    0x00000000000049ba       0x84 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .debug_info    0x0000000000004a3e      0x100 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+ .debug_info    0x0000000000004b3e       0xd0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_info    0x0000000000004c0e      0x6e0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+ .debug_info    0x00000000000052ee      0x61e /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .debug_info    0x000000000000590c      0x368 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a(lib2-divmod.o)
+ .debug_info    0x0000000000005c74       0xe1 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x0000000000000000     0x2493
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x12 ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000000000000012       0xf0 obj/default/hello_world.o
+ .debug_abbrev  0x0000000000000102       0xbe /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x00000000000001c0       0xab ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x000000000000026b       0x86 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x00000000000002f1       0x66 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_abbrev  0x0000000000000357      0x16c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x00000000000004c3      0x10b ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_abbrev  0x00000000000005ce       0xcd ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_abbrev  0x000000000000069b       0xcd ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x0000000000000768      0x14b ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_abbrev  0x00000000000008b3      0x167 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_up_avalon_character_lcd.o)
+ .debug_abbrev  0x0000000000000a1a       0x88 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_abbrev  0x0000000000000aa2      0x133 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x0000000000000bd5       0x5e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x0000000000000c33      0x117 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x0000000000000d4a      0x12a ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x0000000000000e74       0x5a ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x0000000000000ece       0xed ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x0000000000000fbb       0x44 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x0000000000000fff      0x189 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_abbrev  0x0000000000001188      0x17c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_abbrev  0x0000000000001304      0x126 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_abbrev  0x000000000000142a       0x12 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x000000000000143c      0x12d ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x0000000000001569       0x44 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x00000000000015ad      0x160 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_open.o)
+ .debug_abbrev  0x000000000000170d       0xea ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x00000000000017f7      0x17a ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_tick.o)
+ .debug_abbrev  0x0000000000001971       0x44 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_abbrev  0x00000000000019b5       0x12 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x00000000000019c7      0x100 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_abbrev  0x0000000000001ac7      0x121 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_abbrev  0x0000000000001be8       0x96 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .debug_abbrev  0x0000000000001c7e       0xea ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_abbrev  0x0000000000001d68       0x94 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000001dfc       0x39 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x0000000000001e35       0x9e /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x0000000000001ed3       0x8d /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000001f60      0x20a /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x000000000000216a      0x17a /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .debug_abbrev  0x00000000000022e4      0x103 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x00000000000023e7       0xac ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_line     0x0000000000000000     0x2d8a
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x72 ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000072      0x13f obj/default/hello_world.o
+ .debug_line    0x00000000000001b1      0x18a /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .debug_line    0x000000000000033b       0xa6 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_load.o)
+ .debug_line    0x00000000000003e1       0x7d ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o)
+ .debug_line    0x000000000000045e       0xc8 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_line    0x0000000000000526      0x14e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x0000000000000674      0x102 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_line    0x0000000000000776       0xe8 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_line    0x000000000000085e       0xc6 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x0000000000000924       0xfd ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_line    0x0000000000000a21      0x23e ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_up_avalon_character_lcd.o)
+ .debug_line    0x0000000000000c5f       0xe1 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_line    0x0000000000000d40      0x1b5 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o)
+ .debug_line    0x0000000000000ef5       0x6e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x0000000000000f63      0x1b1 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_line    0x0000000000001114      0x106 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x000000000000121a       0x51 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_line    0x000000000000126b       0xb8 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x0000000000001323       0x56 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x0000000000001379      0x123 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_line    0x000000000000149c       0xfc ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_line    0x0000000000001598      0x1e4 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_line    0x000000000000177c       0x6b ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x00000000000017e7       0xd4 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x00000000000018bb       0x50 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x000000000000190b      0x1a0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_open.o)
+ .debug_line    0x0000000000001aab       0xb6 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x0000000000001b61      0x160 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_tick.o)
+ .debug_line    0x0000000000001cc1       0x57 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_line    0x0000000000001d18       0xb3 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x0000000000001dcb      0x103 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_line    0x0000000000001ece       0xfa ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_line    0x0000000000001fc8       0xa0 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .debug_line    0x0000000000002068       0xd9 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_line    0x0000000000002141      0x172 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+ .debug_line    0x00000000000022b3       0x5e /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+ .debug_line    0x0000000000002311      0x18f /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+ .debug_line    0x00000000000024a0      0x17a /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_line    0x000000000000261a      0x28e /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+ .debug_line    0x00000000000028a8      0x15a /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+ .debug_line    0x0000000000002a02      0x303 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a(lib2-divmod.o)
+ .debug_line    0x0000000000002d05       0x85 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_frame    0x0000000000000000      0xb80
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x2c obj/default/hello_world.o
+ .debug_frame   0x000000000000002c       0x20 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .debug_frame   0x000000000000004c       0x5c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_load.o)
+ .debug_frame   0x00000000000000a8       0x2c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o)
+ .debug_frame   0x00000000000000d4       0x38 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_frame   0x000000000000010c       0x88 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x0000000000000194       0x60 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_frame   0x00000000000001f4       0x34 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_frame   0x0000000000000228       0x34 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x000000000000025c       0x60 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_frame   0x00000000000002bc      0x204 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_up_avalon_character_lcd.o)
+ .debug_frame   0x00000000000004c0       0x38 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_frame   0x00000000000004f8       0x60 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o)
+ .debug_frame   0x0000000000000558       0x34 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x000000000000058c       0x34 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x00000000000005c0       0x60 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x0000000000000620       0x38 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x0000000000000658       0x38 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x0000000000000690       0xa4 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_frame   0x0000000000000734       0x38 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_frame   0x000000000000076c       0x60 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_frame   0x00000000000007cc       0x38 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x0000000000000804       0x84 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_open.o)
+ .debug_frame   0x0000000000000888       0x34 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x00000000000008bc       0x5c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_tick.o)
+ .debug_frame   0x0000000000000918       0x34 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_frame   0x000000000000094c       0x38 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_frame   0x0000000000000984       0x34 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_frame   0x00000000000009b8       0x34 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .debug_frame   0x00000000000009ec       0x5c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_frame   0x0000000000000a48       0x28 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000a70       0x20 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000000a90       0x20 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000000ab0       0x54 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000b04       0x50 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a(lib2-divmod.o)
+ .debug_frame   0x0000000000000b54       0x2c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_str      0x0000000000000000     0x1b86
+ *(.debug_str)
+ .debug_str     0x0000000000000000       0x6f ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o
+ .debug_str     0x000000000000006f      0x1b9 obj/default/hello_world.o
+                                        0x218 (size before relaxing)
+ .debug_str     0x0000000000000228      0x135 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+                                        0x1d1 (size before relaxing)
+ .debug_str     0x000000000000035d       0xf1 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_load.o)
+                                        0x227 (size before relaxing)
+ .debug_str     0x000000000000044e       0x44 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_main.o)
+                                        0x181 (size before relaxing)
+ .debug_str     0x0000000000000492       0x29 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_usleep.o)
+                                        0x16a (size before relaxing)
+ .debug_str     0x00000000000004bb      0x100 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_sys_init.o)
+                                        0x2ed (size before relaxing)
+ .debug_str     0x00000000000005bb       0x77 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                                        0x2c3 (size before relaxing)
+ .debug_str     0x0000000000000632       0x48 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                                        0x1e0 (size before relaxing)
+ .debug_str     0x000000000000067a       0x4a ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                        0x1d6 (size before relaxing)
+ .debug_str     0x00000000000006c4       0xca ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+                                        0x223 (size before relaxing)
+ .debug_str     0x000000000000078e      0x1ea ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_up_avalon_character_lcd.o)
+                                        0x3e3 (size before relaxing)
+ .debug_str     0x0000000000000978       0x42 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_busy_sleep.o)
+                                        0x180 (size before relaxing)
+ .debug_str     0x00000000000009ba       0x44 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_close.o)
+                                        0x213 (size before relaxing)
+ .debug_str     0x00000000000009fe       0x34 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+                                        0x16a (size before relaxing)
+ .debug_str     0x0000000000000a32      0x150 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev.o)
+                                        0x379 (size before relaxing)
+ .debug_str     0x0000000000000b82       0x45 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+                                        0x1e1 (size before relaxing)
+ .debug_str     0x0000000000000bc7       0x14 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_errno.o)
+                                        0x154 (size before relaxing)
+ .debug_str     0x0000000000000bdb       0x24 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_dev.o)
+                                        0x1f4 (size before relaxing)
+ .debug_str     0x0000000000000bff       0x34 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+                                        0x16a (size before relaxing)
+ .debug_str     0x0000000000000c33       0xb2 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic.o)
+                                        0x241 (size before relaxing)
+ .debug_str     0x0000000000000ce5       0x4c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+                                        0x1fd (size before relaxing)
+ .debug_str     0x0000000000000d31       0x56 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_io_redirect.o)
+                                        0x37d (size before relaxing)
+ .debug_str     0x0000000000000d87       0x18 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+                                         0x78 (size before relaxing)
+ .debug_str     0x0000000000000d9f       0x3a ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_handler.o)
+                                        0x1ac (size before relaxing)
+ .debug_str     0x0000000000000dd9       0x29 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_vars.o)
+                                        0x158 (size before relaxing)
+ .debug_str     0x0000000000000e02       0x2f ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_open.o)
+                                        0x260 (size before relaxing)
+ .debug_str     0x0000000000000e31       0x28 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_release_fd.o)
+                                        0x1e4 (size before relaxing)
+ .debug_str     0x0000000000000e59       0x89 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_tick.o)
+                                        0x267 (size before relaxing)
+ .debug_str     0x0000000000000ee2       0x3b ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+                                        0x171 (size before relaxing)
+ .debug_str     0x0000000000000f1d       0x1e ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+                                         0x7e (size before relaxing)
+ .debug_str     0x0000000000000f3b       0x26 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_find_file.o)
+                                        0x202 (size before relaxing)
+ .debug_str     0x0000000000000f61       0x30 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_get_fd.o)
+                                        0x224 (size before relaxing)
+ .debug_str     0x0000000000000f91       0x2c ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_icache_flush.o)
+                                        0x170 (size before relaxing)
+ .debug_str     0x0000000000000fbd      0x48b ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                                        0x5be (size before relaxing)
+ .debug_str     0x0000000000001448       0xd7 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+                                        0x1ce (size before relaxing)
+ .debug_str     0x000000000000151f       0xc9 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-int_errno.o)
+                                        0x1b6 (size before relaxing)
+ .debug_str     0x00000000000015e8       0x43 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+                                        0x1bd (size before relaxing)
+ .debug_str     0x000000000000162b       0x43 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+                                        0x1c3 (size before relaxing)
+ .debug_str     0x000000000000166e      0x32b /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+                                        0x4e2 (size before relaxing)
+ .debug_str     0x0000000000001999       0x47 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-impure.o)
+                                        0x4af (size before relaxing)
+ .debug_str     0x00000000000019e0      0x17c /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a(lib2-divmod.o)
+                                        0x1c7 (size before relaxing)
+ .debug_str     0x0000000000001b5c       0x2a ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exit.o)
+                                        0x166 (size before relaxing)
+
+.debug_loc      0x0000000000000000      0x9b8
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x12a /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .debug_loc     0x000000000000012a       0x22 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+ .debug_loc     0x000000000000014c       0xc2 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+ .debug_loc     0x000000000000020e       0x44 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_loc     0x0000000000000252      0x196 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x00000000000003e8      0x5d0 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a(lib2-divmod.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x0000000000000000       0x60
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x0000000000000000       0x30 ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o
+ .debug_alt_sim_info
+                0x0000000000000030       0x30 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_busy_sleep.o)
+                0x000000000001a000                __alt_data_end = 0x1a000
+                0x000000000001a000                PROVIDE (__alt_stack_pointer = __alt_data_end)
+                [!provide]                        PROVIDE (__alt_stack_limit = __alt_stack_base)
+                [!provide]                        PROVIDE (__alt_heap_start = end)
+                [!provide]                        PROVIDE (__alt_heap_limit = 0x1a000)
+OUTPUT(testing_lcd_niosii.elf elf32-littlenios2)
+LOAD linker stubs
+
+.debug_ranges   0x0000000000000000      0x190
+ .debug_ranges  0x0000000000000000       0x20 ../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o
+ .debug_ranges  0x0000000000000020       0x10 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcpy.o)
+ .debug_ranges  0x0000000000000030       0x18 ../testing_lcd_niosii_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_ranges  0x0000000000000048       0x28 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x0000000000000070       0x10 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_ranges  0x0000000000000080       0x30 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_ranges  0x00000000000000b0       0x18 ../testing_lcd_niosii_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_ranges  0x00000000000000c8       0x10 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-exit.o)
+ .debug_ranges  0x00000000000000d8       0x10 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-memcmp.o)
+ .debug_ranges  0x00000000000000e8       0x10 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-strlen.o)
+ .debug_ranges  0x00000000000000f8       0x28 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libsmallc.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x0000000000000120       0x70 /opt/altera/intelFPGA/20.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/10.1.1/libgcc.a(lib2-divmod.o)

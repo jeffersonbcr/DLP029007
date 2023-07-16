@@ -1,0 +1,9 @@
+10:19:19 **** Incremental Build of configuration Nios II for project testing_lcd_niosii ****
+make all 
+Info: Building ../testing_lcd_niosii_bsp/
+make --no-print-directory -C ../testing_lcd_niosii_bsp/
+[BSP build complete]
+[testing_lcd_niosii build complete]
+
+10:19:19 Build Finished (took 160ms)
+

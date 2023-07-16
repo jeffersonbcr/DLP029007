@@ -1,0 +1,34 @@
+10:19:10 **** Incremental Build of configuration Nios II for project testing_lcd_niosii ****
+make all 
+Info: Building ../testing_lcd_niosii_bsp/
+make --no-print-directory -C ../testing_lcd_niosii_bsp/
+[BSP build complete]
+Info: Compiling hello_world.c to obj/default/hello_world.o
+nios2-elf-gcc -xc -MP -MMD -c -I../testing_lcd_niosii_bsp//HAL/inc -I../testing_lcd_niosii_bsp/ -I../testing_lcd_niosii_bsp//drivers/inc -pipe -D__hal__ -DALT_NO_C_PLUS_PLUS -DALT_NO_INSTRUCTION_EMULATION -DALT_USE_SMALL_DRIVERS -DSMALL_C_LIB -DALT_SINGLE_THREADED    -O0 -g -Wall  -mno-hw-div -mhw-mul -mno-hw-mulx -mgpopt=global  -o obj/default/hello_world.o hello_world.c
+hello_world.c: In function 'main':
+hello_world.c:17:8: warning: assignment to 'char *' from incompatible pointer type 'char (*)[17]' [-Wincompatible-pointer-types]
+   17 |     m1 = &member;
+      |        ^
+hello_world.c:18:8: warning: assignment to 'char *' from incompatible pointer type 'char (*)[17]' [-Wincompatible-pointer-types]
+   18 |     m2 = &member2;
+      |        ^
+Info: Linking testing_lcd_niosii.elf
+nios2-elf-g++ -T'../testing_lcd_niosii_bsp//linker.x' -msys-crt0='../testing_lcd_niosii_bsp//obj/HAL/src/crt0.o' -msys-lib=hal_bsp -L../testing_lcd_niosii_bsp/ -msmallc  -Wl,-Map=testing_lcd_niosii.map   -O0 -g -Wall  -mno-hw-div -mhw-mul -mno-hw-mulx -mgpopt=global  -o testing_lcd_niosii.elf obj/default/hello_world.o -lm -msys-lib=m
+nios2-elf-insert testing_lcd_niosii.elf --thread_model hal --cpu_name cpu --qsys true --simulation_enabled false --stderr_dev jtag_uart --stdin_dev jtag_uart --stdout_dev jtag_uart --sopc_system_name nios2_first_cpu --quartus_project_dir "/home/aluno/Downloads/myfirst_niosii_v3_restored" --jdi ../..//output_files/myfirst_niosii.jdi --sopcinfo /home/aluno/Downloads/myfirst_niosii_v3_restored/software/testing_lcd_niosii_bsp/../../nios2_first_cpu.sopcinfo
+Info: (testing_lcd_niosii.elf) 9792 Bytes program size (code + initialized data).
+Info:                          29 KBytes free for stack + heap.
+Info: Creating testing_lcd_niosii.objdump
+nios2-elf-objdump --disassemble --syms --all-header --source testing_lcd_niosii.elf >testing_lcd_niosii.objdump
+[testing_lcd_niosii build complete]
+10:19:19 **** Build of configuration Nios II for project testing_lcd_niosii ****
+make all 
+Info: Building ../testing_lcd_niosii_bsp/
+make --no-print-directory -C ../testing_lcd_niosii_bsp/
+[BSP build complete]
+[testing_lcd_niosii build complete]
+10:19:19 **** Incremental Build of configuration Nios II for project testing_lcd_niosii ****
+make all 
+Info: Building ../testing_lcd_niosii_bsp/
+make --no-print-directory -C ../testing_lcd_niosii_bsp/
+[BSP build complete]
+[testing_lcd_niosii build complete]

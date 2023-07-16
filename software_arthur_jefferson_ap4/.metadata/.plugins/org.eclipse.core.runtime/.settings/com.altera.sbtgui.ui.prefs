@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+newSoftwareExampleWizardPage.defaultLocation=/home/aluno/Downloads/myfirst_niosii_v3_restored/software/testing_lcd_niosii
+newSoftwareExampleWizardPage.sopcinfoFile=/home/aluno/Downloads/myfirst_niosii_v3_restored/nios2_first_cpu.sopcinfo
+newSoftwareExampleWizardPage2.newBspLocation=/home/aluno/Downloads/myfirst_niosii_v3_restored/software/testing_lcd_niosii_bsp
